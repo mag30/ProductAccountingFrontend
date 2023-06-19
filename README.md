@@ -1,29 +1,42 @@
-# product-accounting-front
+# ProductAccountingFrontend
+##  Гребенщикова Маргарита 8В11
 
-This template should help get you started developing with Vue 3 in Vite.
+### Описание
 
-## Recommended IDE Setup
+> Создание пользовательского интерфейса
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
+## Технологии
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- [VUE](https://ru.vuejs.org) - JavaScript-фреймворк с открытым исходным кодом для создания пользовательских интерфейсов.
+- [HTML](https://html.spec.whatwg.org) - Стандартизированный язык гипертекстовой разметки документов для просмотра веб-страниц в браузере
+- [JavaScript](https://www.javascript.com) - Мультипарадигменный язык программирования
 
-## Project Setup
+## Установка
+
+Перед запуском потребуется установить
+- https://nodejs.org/en/download/
+- https://cli.vuejs.org
+
+Склонировать данный репазиторий
+
+```sh
+[git clone https://github.com/mag30/Text-Summarizer-Frontend.git](https://github.com/mag30/ProductAccountingFrontend.git)
+```
+
+Подтянуть зависимости
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+Запустить
 
 ```sh
-npm run dev
+npm run serve
 ```
 
-### Compile and Minify for Production
+### Адрес интерфейса
 
-```sh
-npm run build
-```
+>http://localhost:8080/
+
